@@ -1,6 +1,6 @@
 # AI-Driven Distributed System Anomaly Detection
 
-> SmartBridge project submission by **Shreyash Dabhade**
+> SmartBridge project submission
 >
 > This repository presents a production-ready anomaly detection platform for distributed systems, prepared as part of the SmartBridge project submission.
 
